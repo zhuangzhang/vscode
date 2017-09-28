@@ -2,6 +2,7 @@
 """
 Created on Sun Aug 20 13:26:20 2017
 这是第一次使用Git,通过Git来管理代码
+然后还是不会使用
 @author: zhang
 """
 print '-'*20, 'hello zz!', '-'*20
