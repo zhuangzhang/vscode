@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Aug 20 13:26:20 2017
-123
+这是第一次使用Git,通过Git来管理代码
 @author: zhang
 """
 print '-'*20, 'hello zz!', '-'*20
