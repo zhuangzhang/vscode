@@ -2,7 +2,7 @@
 import os
 import tensorflow as tf 
 import numpy as np
-#导入表
+#导入表库
 import xlrd
 
 import data_inference

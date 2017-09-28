@@ -1,5 +1,5 @@
 #coding=utf-8
-#导入表
+#导入表库
 import xlrd
 
 X=[]
